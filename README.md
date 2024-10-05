@@ -1,4 +1,5 @@
-UNTETHERED
+#UNTETHERED
+
 Empowering Global Volunteers through Blockchain Technology
 
 Project Overview
